@@ -5,7 +5,8 @@
 
 
 - 📫 How to reach me **Frendonjr03@gmail.com**
--  Check out my Portfolio **http://freddyrendon.me/portfolio/**
+-  🌐 Check out my Portfolio: **https://freddyrendon.me**
+- 🛠️ Currently expanding my skills with C# development and exploring the latest ASP.NET Core version
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
