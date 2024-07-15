@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freddyrendon&label=Profile%20views&color=18fbe1&style=plastic" alt="freddyrendon" /> </p>
 
 
-- 📫 How to reach me **aadevloper718@gmail.com**
+- 📫 How to reach me **dev.fred228@gmail.com**
 -  🌐 Check out my Portfolio: **https://freddyrendon.me**
 - 🛠️ Currently expanding my skills with C# development and exploring the latest ASP.NET Core version
 
